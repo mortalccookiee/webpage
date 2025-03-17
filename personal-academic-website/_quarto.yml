@@ -1,3 +1,6 @@
+project:
+  type: website
+
 title: "个人学术网站"
 author: "张伟"
 description: "欢迎来到我的个人学术网站，了解我的研究、教学和出版物。"
@@ -9,16 +12,16 @@ site:
   navbar:
     right:
       - text: "关于我"
-        href: "about.qmd"
+        href: "about.html"
       - text: "简历"
-        href: "cv.qmd"
+        href: "cv.html"
       - text: "出版物"
-        href: "publications.qmd"
+        href: "publications.html"
       - text: "研究"
-        href: "research.qmd"
+        href: "research.html"
       - text: "教学"
-        href: "teaching.qmd"
+        href: "teaching.html"
       - text: "联系方式"
-        href: "contact.qmd"
+        href: "contact.html"
   footer:
     text: "© 2023 张伟. 保留所有权利。"
