@@ -1,0 +1,24 @@
+title: "个人学术网站"
+author: "张伟"
+description: "欢迎来到我的个人学术网站，了解我的研究、教学和出版物。"
+site: 
+  output-dir: "_site"
+  url: "https://yourusername.github.io/personal-academic-website"
+  favicon: "images/favicon.ico"
+  theme: "cosmo"
+  navbar:
+    right:
+      - text: "关于我"
+        href: "about.qmd"
+      - text: "简历"
+        href: "cv.qmd"
+      - text: "出版物"
+        href: "publications.qmd"
+      - text: "研究"
+        href: "research.qmd"
+      - text: "教学"
+        href: "teaching.qmd"
+      - text: "联系方式"
+        href: "contact.qmd"
+  footer:
+    text: "© 2023 张伟. 保留所有权利。"

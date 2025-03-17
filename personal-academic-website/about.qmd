@@ -1,0 +1,35 @@
+---
+title: "About Me"
+format: html
+---
+
+## 个人简介
+
+我是一名刚刚毕业的博士生，专注于计算机科学领域，尤其是在人工智能和机器学习方面的研究。我热衷于将理论与实践相结合，致力于推动技术的前沿发展。
+
+## 教育经历
+
+- **博士学位**  
+  计算机科学，某某大学，2023年  
+  论文题目：*基于深度学习的图像识别技术研究*
+
+- **硕士学位**  
+  计算机科学，某某大学，2018年  
+  研究方向：*自然语言处理*
+
+- **学士学位**  
+  计算机科学，某某大学，2016年  
+
+## 曾获荣誉
+
+- 2023年：某某大学优秀博士生奖
+- 2022年：国际计算机科学会议最佳论文奖
+- 2021年：某某大学研究生奖学金
+
+## 联系方式
+
+如需联系我，请通过以下方式：
+
+- 电子邮件: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [github.com/yourusername](https://github.com/yourusername)

@@ -1,0 +1,14 @@
+---
+title: "Contact"
+format: html
+---
+
+## 联系方式
+
+感谢您访问我的个人学术网站！如果您有任何问题或想要进一步交流，请随时通过以下方式与我联系：
+
+- **电子邮件**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+
+我期待与您交流！

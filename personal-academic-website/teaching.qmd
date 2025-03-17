@@ -1,0 +1,38 @@
+---
+title: "Teaching Experience"
+format: html
+---
+
+## Teaching Experience
+
+As a recent PhD graduate, I have had the opportunity to engage in various teaching roles that have enriched my academic journey and honed my pedagogical skills. Below is an overview of my teaching experience.
+
+### Courses Taught
+
+- **Introduction to Machine Learning**
+  - Institution: University of Example
+  - Semester: Fall 2022
+  - Description: This course provided students with a foundational understanding of machine learning concepts, algorithms, and applications. 
+
+- **Advanced Data Analysis**
+  - Institution: University of Example
+  - Semester: Spring 2023
+  - Description: Aimed at graduate students, this course focused on advanced statistical methods and data analysis techniques using real-world datasets.
+
+### Teaching Philosophy
+
+My teaching philosophy centers around fostering an inclusive and engaging learning environment. I believe in the importance of active learning, where students are encouraged to participate, ask questions, and collaborate with their peers. I strive to make complex topics accessible and relevant by connecting theoretical concepts to practical applications.
+
+### Teaching Methods
+
+- **Interactive Lectures**: I utilize technology and multimedia resources to create dynamic lectures that stimulate student interest and participation.
+- **Group Projects**: Collaborative projects encourage teamwork and allow students to apply their knowledge in practical scenarios.
+- **Feedback and Assessment**: I prioritize providing timely and constructive feedback to help students improve and succeed in their academic pursuits.
+
+### Future Teaching Goals
+
+I aim to continue developing my teaching skills and exploring innovative teaching methods. I am particularly interested in integrating more hands-on learning experiences and utilizing online platforms to enhance student engagement.
+
+---
+
+Feel free to reach out if you have any questions or would like to discuss my teaching experiences further!

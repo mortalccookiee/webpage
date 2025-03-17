@@ -1,0 +1,49 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+# Curriculum Vitae
+
+## Personal Information
+**Name:** Dr. Jane Doe  
+**Email:** jane.doe@example.com  
+**Phone:** (123) 456-7890  
+**LinkedIn:** [linkedin.com/in/janedoe](https://linkedin.com/in/janedoe)  
+**GitHub:** [github.com/janedoe](https://github.com/janedoe)  
+
+## Education
+**Ph.D. in Computer Science**  
+University of Example, 2023  
+- Dissertation: "Innovative Approaches to Machine Learning in Healthcare"
+
+**M.Sc. in Computer Science**  
+University of Example, 2018  
+- Thesis: "Deep Learning Techniques for Image Recognition"
+
+**B.Sc. in Information Technology**  
+College of Example, 2016  
+- Graduated with Honors
+
+## Work Experience
+**Postdoctoral Researcher**  
+University of Example, 2023 - Present  
+- Conducting research on AI applications in medical diagnostics.
+
+**Research Assistant**  
+University of Example, 2018 - 2023  
+- Assisted in various projects focusing on machine learning and data analysis.
+
+## Skills
+- Programming Languages: Python, R, Java
+- Frameworks: TensorFlow, PyTorch, Scikit-learn
+- Tools: Git, Docker, Jupyter Notebooks
+- Soft Skills: Team Collaboration, Communication, Problem Solving
+
+## Honors and Awards
+- Best Paper Award, International Conference on Machine Learning, 2022
+- Graduate Research Fellowship, University of Example, 2019
+- Dean's List, College of Example, 2014-2016
+
+## References
+Available upon request.

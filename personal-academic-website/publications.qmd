@@ -1,0 +1,22 @@
+title: "Publications"
+format: html
+---
+
+## Academic Publications
+
+### Journal Articles
+1. **Doe, J., & Smith, A.** (2023). Title of the first journal article. *Journal of Important Research*, 12(3), 123-145. [DOI:10.1234/jir.2023.12345](https://doi.org/10.1234/jir.2023.12345)
+2. **Doe, J.** (2022). Title of the second journal article. *Another Journal of Research*, 8(2), 67-89. [DOI:10.1234/ajor.2022.67890](https://doi.org/10.1234/ajor.2022.67890)
+
+### Conference Proceedings
+1. **Doe, J.**, & Brown, C. (2023). Title of the conference paper. In *Proceedings of the International Conference on Research* (pp. 45-56). [Link to proceedings](https://example.com/proceedings)
+2. **Doe, J.** (2021). Title of the workshop paper. In *Proceedings of the Workshop on Emerging Topics* (pp. 23-30). [Link to proceedings](https://example.com/workshop)
+
+### Book Chapters
+1. **Doe, J.** (2024). Title of the book chapter. In A. Editor (Ed.), *Title of the Book* (pp. 101-120). Publisher. [Link to book](https://example.com/book)
+
+### Theses
+1. **Doe, J.** (2023). *Title of the PhD Thesis*. University Name. [Link to thesis](https://example.com/thesis)
+
+### Other Publications
+- **Doe, J.** (2022). Title of the report. *Institution Name*. [Link to report](https://example.com/report)

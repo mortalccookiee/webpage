@@ -1,0 +1,27 @@
+title: "Research"
+format: html
+---
+
+## Research Interests
+
+As a recent PhD graduate, my research interests lie at the intersection of artificial intelligence and human-computer interaction. I am particularly fascinated by how intelligent systems can enhance user experience and decision-making processes.
+
+## Current Projects
+
+### Project 1: Intelligent User Interfaces
+This project explores the development of adaptive user interfaces that respond to user behavior and preferences. By leveraging machine learning algorithms, we aim to create interfaces that improve usability and accessibility for diverse user groups.
+
+### Project 2: AI in Education
+In this project, I investigate the application of AI technologies in educational settings. The goal is to develop tools that personalize learning experiences and provide real-time feedback to students and educators.
+
+## Future Research Directions
+
+Looking ahead, I plan to expand my research into the following areas:
+
+- **Ethical AI**: Investigating the implications of AI technologies on privacy and security.
+- **Collaborative Systems**: Exploring how AI can facilitate collaboration among teams in remote work environments.
+- **User-Centric Design**: Focusing on designing AI systems that prioritize user needs and experiences.
+
+## Publications
+
+For a comprehensive list of my publications, please refer to the [Publications](publications.qmd) page.
